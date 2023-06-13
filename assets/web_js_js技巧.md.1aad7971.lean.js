@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,R as l}from"./chunks/framework.324713a9.js";const i=JSON.parse('{"title":"js 技巧","description":"","frontmatter":{},"headers":[],"relativePath":"web/js/js技巧.md","filePath":"web/js/js技巧.md"}'),o={name:"web/js/js技巧.md"},p=l("",29),e=[p];function t(c,r,D,y,F,C){return n(),a("div",null,e)}const d=s(o,[["render",t]]);export{i as __pageData,d as default};

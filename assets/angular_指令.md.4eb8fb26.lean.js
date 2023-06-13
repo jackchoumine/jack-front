@@ -1,0 +1,1 @@
+import{_ as s,c as n,o,R as a}from"./chunks/framework.324713a9.js";const g=JSON.parse('{"title":"指令","description":"","frontmatter":{},"headers":[],"relativePath":"angular/指令.md","filePath":"angular/指令.md"}'),l={name:"angular/指令.md"},p=a("",42),t=[p];function e(c,r,D,F,y,C){return o(),n("div",null,t)}const u=s(l,[["render",e]]);export{g as __pageData,u as default};

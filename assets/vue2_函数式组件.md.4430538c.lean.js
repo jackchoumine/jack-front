@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,R as l}from"./chunks/framework.324713a9.js";const A=JSON.parse('{"title":"函数式组件","description":"","frontmatter":{},"headers":[],"relativePath":"vue2/函数式组件.md","filePath":"vue2/函数式组件.md"}'),p={name:"vue2/函数式组件.md"},o=l("",85),t=[o];function e(c,r,F,D,y,C){return a(),n("div",null,t)}const d=s(p,[["render",e]]);export{A as __pageData,d as default};

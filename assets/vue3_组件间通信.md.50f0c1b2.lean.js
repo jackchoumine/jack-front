@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,R as l}from"./chunks/framework.324713a9.js";const i=JSON.parse('{"title":"组件之间通信方式","description":"","frontmatter":{},"headers":[],"relativePath":"vue3/组件间通信.md","filePath":"vue3/组件间通信.md"}'),p={name:"vue3/组件间通信.md"},o=l("",37),t=[o];function e(c,r,D,y,F,C){return n(),a("div",null,t)}const u=s(p,[["render",e]]);export{i as __pageData,u as default};
