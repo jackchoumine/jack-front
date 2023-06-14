@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,O as l}from"./chunks/framework.38cd83de.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"mysql/NOTE.md","filePath":"mysql/NOTE.md"}'),p={name:"mysql/NOTE.md"},e=l("",65),o=[e];function r(c,t,C,i,y,d){return n(),a("div",null,o)}const A=s(p,[["render",r]]);export{m as __pageData,A as default};

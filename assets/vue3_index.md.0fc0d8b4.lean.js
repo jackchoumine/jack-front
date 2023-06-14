@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as r,R as t}from"./chunks/framework.7a63aef5.js";const _=JSON.parse('{"title":"vue3 学习总结","description":"","frontmatter":{},"headers":[],"relativePath":"vue3/index.md","filePath":"vue3/index.md"}'),h={name:"vue3/index.md"},d=t("",9),o=[d];function n(i,l,u,s,c,m){return a(),r("div",null,o)}const f=e(h,[["render",n]]);export{_ as __pageData,f as default};

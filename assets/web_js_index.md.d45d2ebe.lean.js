@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,O as i}from"./chunks/framework.38cd83de.js";const _=JSON.parse('{"title":"js 学习","description":"","frontmatter":{},"headers":[],"relativePath":"web/js/index.md","filePath":"web/js/index.md"}'),s={name:"web/js/index.md"},o=i("",11),h=[o];function n(r,l,d,c,m,f){return t(),e("div",null,h)}const b=a(s,[["render",n]]);export{_ as __pageData,b as default};
