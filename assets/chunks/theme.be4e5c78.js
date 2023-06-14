@@ -238,15 +238,15 @@ webpack5 模块联邦实现微前端
 gh-pages 是 github `,cover:""}},{route:"/webpack/模块联邦实现微前端",meta:{title:"webpack5模块联邦实现微前端",date:"2023-06-14 16:13:06",tag:[],description:`微前端：将巨大的单体前端系统拆分成多个独立的小型系统，最后集成为一个系统的架构思路，分而治之，让系统
 更加容易维护、更易扩展，实施微前端是一个先拆分，后合并的过程。
 
-> 微前端和微服务都是为了解决大`,cover:"https://tva1.sinaimg.cn/large/008i3skNgy1gy5h55k4g9j31ci0oyae2.jpg"}},{route:"/others/dev-tool/choco包管理器",meta:{title:"Chocolatey包管理器的使用",date:"2023-06-14 16:13:06",tag:[],description:"Chocolatey 是 window 平台的包管理器，类似 node 的 npm 和 mac 的 brew，通过它，可搜索、安装、管理、更新各种各样的软件。特别适合管理一些小众、轻量的开源软件。最重",cover:""}},{route:"/others/dev-tool/eslint",meta:{title:"eslint",date:"2023-06-14 16:13:06",tag:[],description:` eslint 规则不生效
+> 微前端和微服务都是为了解决大`,cover:"https://tva1.sinaimg.cn/large/008i3skNgy1gy5h55k4g9j31ci0oyae2.jpg"}},{route:"/others/dev-tool/choco包管理器",meta:{title:"Chocolatey包管理器的使用",date:"2023-06-14 16:13:06",tag:[],description:"Chocolatey 是 window 平台的包管理器，类似 node 的 npm 和 mac 的 brew，通过它，可搜索、安装、管理、更新各种各样的软件。特别适合管理一些小众、轻量的开源软件。最重",cover:""}},{route:"/others/dev-tool/eslint",meta:{title:"eslint",date:"2023-06-14 16:30:52",tag:[],description:` eslint 规则不生效
 不会提示错误，也不会自动修复问题，删除这个配置
 \`\`\`js
   "eslint.options": {
     "plugins": [
       "html",
-   `,cover:""}},{route:"/others/dev-tool/git",meta:{title:"git使用",date:"2023-06-14 16:13:06",tag:[],description:` 同一台电脑上管理多 ssh 密钥
+   `,cover:""}},{route:"/others/dev-tool/git",meta:{title:"git使用",date:"2023-06-14 16:30:52",tag:[],description:` 同一台电脑上管理多 ssh 密钥
 使用私钥推送代码到仓库，可免去输入密码等繁琐问题。在同一个设备上管理多个仓库的密钥很必要，比如公司的仓库是 gitlab，个人仓库是 github。
-1. 创建特定`,cover:""}},{route:"/others/dev-tool/git提交规范",meta:{title:"git提交规范",date:"2023-06-14 16:13:06",tag:[],description:`
+1. 创建特定`,cover:""}},{route:"/others/dev-tool/git提交规范",meta:{title:"git提交规范",date:"2023-06-14 16:30:52",tag:[],description:`
 在开发过程中，Git 每次提交代码，都需要写 Commit message（提交说明），规范的 Commit message 有很多好处：
 - 方便快速浏览查找，回溯之前的工作内容
 - 可以直接从 `,cover:"https://tva1.sinaimg.cn/large/008i3skNgy1gqko4rup1pj30up0fwq3z.jpg 'git cz 交互式提交'"}},{route:"/others/dev-tool/index",meta:{title:"开发工具使用",date:"2023-06-14 16:13:06",tag:[],description:` 最常用的 prettier 配置
