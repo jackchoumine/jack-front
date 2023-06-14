@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,R as l}from"./chunks/framework.324713a9.js";const i=JSON.parse('{"title":"node 路由","description":"","frontmatter":{},"headers":[],"relativePath":"node/node路由.md","filePath":"node/node路由.md"}'),p={name:"node/node路由.md"},o=l("",15),e=[o];function t(r,c,D,F,y,A){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{i as __pageData,d as default};

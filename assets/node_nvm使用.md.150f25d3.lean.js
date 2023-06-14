@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,R as l}from"./chunks/framework.324713a9.js";const d=JSON.parse('{"title":"nvm 使用","description":"","frontmatter":{},"headers":[],"relativePath":"node/nvm使用.md","filePath":"node/nvm使用.md"}'),o={name:"node/nvm使用.md"},p=l("",17),e=[p];function t(c,r,C,y,i,A){return n(),a("div",null,e)}const m=s(o,[["render",t]]);export{d as __pageData,m as default};

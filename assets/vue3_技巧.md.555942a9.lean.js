@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as e,R as o}from"./chunks/framework.324713a9.js";const A=JSON.parse('{"title":"技巧","description":"","frontmatter":{},"headers":[],"relativePath":"vue3/技巧.md","filePath":"vue3/技巧.md"}'),n={name:"vue3/技巧.md"},t=o("",3),l=[t];function p(c,r,i,_,D,d){return e(),a("div",null,l)}const C=s(n,[["render",p]]);export{A as __pageData,C as default};

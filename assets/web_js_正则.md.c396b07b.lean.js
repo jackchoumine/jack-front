@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,R as l}from"./chunks/framework.324713a9.js";const i=JSON.parse('{"title":"正则表达式","description":"","frontmatter":{},"headers":[],"relativePath":"web/js/正则.md","filePath":"web/js/正则.md"}'),p={name:"web/js/正则.md"},o=l("",18),t=[o];function e(c,r,D,y,F,C){return n(),a("div",null,t)}const d=s(p,[["render",e]]);export{i as __pageData,d as default};
