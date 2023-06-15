@@ -127,10 +127,10 @@ react 以组件为核心，react-ro`,cover:""}},{route:"/react/如何写好条�
 The Scheme programming language
 Scheme 语言简明教程
 sch`,cover:""}},{route:"/science/index",meta:{title:"科学和理性",date:"2023-06-14 16:13:06",tag:[],description:` 中医的玄学之路
- 中医与巫术`,cover:""}},{route:"/science/中医与巫术",meta:{title:"明明就是传授巫术的魔法学校，算什么医学院呢",date:"2023-06-14 16:13:06",tag:[],description:`近日，一则「北京中医药大学被世界医学院校名录除名」的消息不胫而走
+ 中医与巫术`,cover:""}},{route:"/science/中医与巫术",meta:{title:"明明就是传授巫术的魔法学校，算什么医学院呢",date:"2023-06-15 07:04:28",tag:[],description:`近日，一则「北京中医药大学被世界医学院校名录除名」的消息不胫而走
 那么，中医药大学究竟算不算医学院，中医药大学里面都教些什么呢？
  一、听说过五运六气吗？来围观北京中医药大学硕士毕业论文
-江阴市人民医`,cover:"https://tva1.sinaimg.cn/large/e6c9d24egy1h47ses7dq1j20hs0sxacr.jpg"}},{route:"/science/中医的玄学之路",meta:{title:"中医是如何从技术一步步走向玄学的？",date:"2023-06-14 16:13:06",tag:[],description:`
+江阴市人民医`,cover:"https://cdn.jsdelivr.net/gh/jackchoumine/jack-picture@master/remove.1jj16jcuvoo0.webp"}},{route:"/science/中医的玄学之路",meta:{title:"中医是如何从技术一步步走向玄学的？",date:"2023-06-14 16:13:06",tag:[],description:`
 > ）。
  华佗神功是真的吗
 ​ 从起源而言，《黄帝内经》大约是没资格坐中医头把交椅的，其作者一直无法验明正身，其内容也多经后世窜入
