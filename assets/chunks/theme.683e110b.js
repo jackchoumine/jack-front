@@ -349,11 +349,11 @@ functio`,cover:"https://tva1.sinaimg.cn/large/008i3skNgy1grs4x348cij31b60h2dia.j
 const elem = this.$el;
 const element = e.target;
 const input = this.$refs.input;
-// `,cover:""}},{route:"/web/js/stencil简介",meta:{title:"stencil简介",date:"2023-06-14 16:13:06",tag:[],description:`stencil 是一个生成 Web Component 的编译器，但是其具有自己的特殊语法，使用 stencil 生成的组件可跨框架和在 html 中使用。
-其号称结合了最流行框架(angular、r`,cover:""}},{route:"/web/js/stencil组件",meta:{title:"stencil组件",date:"2023-06-14 16:13:06",tag:[],description:`stencil 提供一些装饰器、生命周期钩子和渲染函数去编写一个组件。
+// `,cover:""}},{route:"/web/js/stencil简介",meta:{title:"stencil简介",date:"2023-06-16 06:16:05",tag:[],description:`stencil 是一个生成 Web Component 的编译器，但是其具有自己的特殊语法，使用 stencil 生成的组件可跨框架和在 html 中使用。
+其号称结合了最流行框架(angular、r`,cover:""}},{route:"/web/js/stencil组件",meta:{title:"stencil组件",date:"2023-06-16 06:16:05",tag:[],description:`stencil 提供一些装饰器、生命周期钩子和渲染函数去编写一个组件。
  装饰器
 装饰器是一组用于声明组件元数据的函数，会在构建产物中移除，所以不会有运行时开销。
-- @Component() 声明一`,cover:"https://tva1.sinaimg.cn/large/008i3skNgy1gxyq0ishibj30u0147418.jpg"}},{route:"/web/js/封装axios",meta:{title:"",date:"2023-06-14 16:13:06",tag:[],cover:"https://tva1.sinaimg.cn/large/008vxvgGly1h856xt5v1tj306k08wt9h.jpg"}},{route:"/web/js/手写绑定函数",meta:{title:"this",date:"2023-06-14 16:13:06",tag:[],description:`this
+- @Component() 声明一`,cover:"https://jsd.cdn.zzko.cn/gh/jackchoumine/jack-picture@master/008i3skNgy1gxyq0ishibj30u0147418.jpg"}},{route:"/web/js/封装axios",meta:{title:"",date:"2023-06-14 16:13:06",tag:[],cover:"https://tva1.sinaimg.cn/large/008vxvgGly1h856xt5v1tj306k08wt9h.jpg"}},{route:"/web/js/手写绑定函数",meta:{title:"this",date:"2023-06-14 16:13:06",tag:[],description:`this
  this 绑定规则
 this 是函数调用上下文，是一个对象，是伴随着函数调用产生的，谁调用函数，就指向谁。
 具体来说，有四条绑定规则或者函数有四种调用方式：
