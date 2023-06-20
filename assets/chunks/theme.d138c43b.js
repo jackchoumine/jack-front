@@ -154,7 +154,7 @@ gh-pages 是 github `,cover:""}},{route:"/vue2/vue-状态管理（一）",meta:{
 （1）vue-router 是 Vue 官方提供前端路由插`,cover:""}},{route:"/vue2/vue路由进阶",meta:{title:"vue路由进阶",date:"2023-06-14 16:13:06",tag:[],description:"路由可向路由匹配的组件传递参数，`不同情况`向组件传递不同的参数，从而实现组件的复用。\n<!--more--\n 路由向组件传递参数\n和路由匹配的组件可以在组件中使用 `$route` 获取路由上的参数",cover:""}},{route:"/vue2/函数式组件",meta:{title:"函数式组件",date:"2023-06-16 01:19:04",tag:[],description:"函数式组件（functional component）是一个不持有状态`data`、实例`this`和生命周期的组件。\n\n模板定义：\n```html\n<template functional>\n  <",cover:"https://cdn.jsdelivr.net/gh/jackchoumine/jack-picture@master/008i3skNgy1gqwvhz9dt4j30fq02ywen.webp 'slots()'"}},{route:"/vue2/如何优雅地注册全局组件",meta:{title:"如何更好的注册全局组件",date:"2023-06-14 16:13:06",tag:[],description:" 通常做法\n把组件导出到 main.js，然后 `Vue.component(id,component)`，一个个注册，缺点：效率不高\n改进：把需要全局注册的组件放在数组中导出，然后 forEach ",cover:""}},{route:"/vue2/如何使用render函数封装高扩展的组件",meta:{title:"如何使用render改善组件",date:"2023-06-16 01:19:04",tag:[],description:`前面的文章有提到，vue 官网给出的 render 函数的例子只能体现 render 函数的优雅的一方面，却不能看出其扩展性，今天就来封装一个体现其扩展性的组件。
  需求
 后台管理中常常有如下布局的数`,cover:"https://cdn.jsdelivr.net/gh/jackchoumine/jack-picture@master/008i3skNgy1grboa6ymuhj31wm0ekach.7frqog22iqs0.webp 'Ant Design Vue Descriptions 描述列表'"}},{route:"/vue2/如何更好的管理公共组件",meta:{title:"如何更好的管理公共组件？",date:"2023-06-14 16:13:06",tag:[],description:`想要真正实现组件化开发，管理和维护好公共组件无法避免。
-有些公司没有公共组件，有了公共组件，文档也很烂，使用体验极差，基于开源组件库封装的，干脆连文档都没有，就是换了一个皮，调整一下布局，加入的特殊用`,cover:"https://tva1.sinaimg.cn/large/008i3skNgy1gulhzivysfj613f0u0dgt02.jpg"}},{route:"/vue3/element使用总结",meta:{title:"element组件库使用使用总结",date:"2023-06-20 12:23:49",tag:[],description:` el-table 如何重置排序
+有些公司没有公共组件，有了公共组件，文档也很烂，使用体验极差，基于开源组件库封装的，干脆连文档都没有，就是换了一个皮，调整一下布局，加入的特殊用`,cover:"https://tva1.sinaimg.cn/large/008i3skNgy1gulhzivysfj613f0u0dgt02.jpg"}},{route:"/vue3/element使用总结",meta:{title:"element组件库使用使用总结",date:"2023-06-20 12:35:39",tag:[],description:` el-table 如何重置排序
 \`\`\`html{11,13,15,16}
 <script lang="ts" setup
 import type { TableColumnCtx } from 'e`,cover:""}},{route:"/vue3/flask 配置跨域",meta:{title:"flask配置跨域",date:"2023-06-14 16:13:06",tag:[],description:`\r
@@ -163,14 +163,15 @@ from flask import Flask\r
 from flask_cors import CORS\r
 \r
 app = Flask(__name__)\r
- CORS(ap`,cover:""}},{route:"/vue3/index",meta:{title:"vue3学习总结",date:"2023-06-20 12:23:49",tag:[],description:` element 使用总结
+ CORS(ap`,cover:""}},{route:"/vue3/index",meta:{title:"vue3学习总结",date:"2023-06-20 12:35:39",tag:[],description:` element 使用总结
+ 项目总结
  pinia 使用教程（一）
  如何监听组件生命周期钩子事件
  生产级别的 vue
  vue 指令总结
  如何检测一个元素是否在视窗中
  vue 代码优化方案
- 组件设计之`,cover:""}},{route:"/vue3/pinia使用教程一",meta:{title:"pinia使用教程（一）",date:"2023-06-19 18:12:06",tag:[],description:"pinia 是一个 Vue3 的状态管理库，它的 API 设计和 Vuex 有很大的相似之处，但是它的实现方式和 Vuex 完全不同，它是基于 Vue3 的新特性 `Composition API` ",cover:"https://jsd.cdn.zzko.cn/gh/jackchoumine/jack-picture@master/vue3/pinia-store-counter.png 'vue3-pinia-store-counter'"}},{route:"/vue3/render函数",meta:{title:"vue3中的render函数",date:"2023-06-14 16:13:06",tag:[],description:`vue3 较 vue2，render 函数有很大的变化，现在使用 vue3 的 render 把 vue2 中使用 render 定义的组件都实现一遍，比较着学习，印象会更深刻。
+`,cover:""}},{route:"/vue3/pinia使用教程一",meta:{title:"pinia使用教程（一）",date:"2023-06-19 18:12:06",tag:[],description:"pinia 是一个 Vue3 的状态管理库，它的 API 设计和 Vuex 有很大的相似之处，但是它的实现方式和 Vuex 完全不同，它是基于 Vue3 的新特性 `Composition API` ",cover:"https://jsd.cdn.zzko.cn/gh/jackchoumine/jack-picture@master/vue3/pinia-store-counter.png 'vue3-pinia-store-counter'"}},{route:"/vue3/render函数",meta:{title:"vue3中的render函数",date:"2023-06-14 16:13:06",tag:[],description:`vue3 较 vue2，render 函数有很大的变化，现在使用 vue3 的 render 把 vue2 中使用 render 定义的组件都实现一遍，比较着学习，印象会更深刻。
  基本用法
 
 1. `,cover:""}},{route:"/vue3/tailwind简介",meta:{title:"tailwind简介",date:"2023-06-14 16:13:06",tag:[],description:`\r
@@ -241,7 +242,14 @@ vue2 如何共享公共行为的？
 \r
 2. 回调函数\r
 \r
-父组件通过 prop 传递函数，子组件调用，通过`,cover:""}},{route:"/vue3/除了ref和reactive还有哪些函数声明响应式数据",meta:{title:"除了ref和reactive，还有哪些函数声明响应式数据？",date:"2023-06-14 16:13:06",tag:[],description:"\r\n ref vs shallowRef\r\n\r\nref 包裹的变量，返回响应式对象，通过`.value`获取原来的变量。被包裹的变量是对象或者数组，`内部`也会变成响应式的数据。\r\n\r\n```js\r\n",cover:""}},{route:"/webpack/index",meta:{title:"webpack相关文章",date:"2023-06-14 16:13:06",tag:[],description:` rollup 基础使用
+父组件通过 prop 传递函数，子组件调用，通过`,cover:""}},{route:"/vue3/除了ref和reactive还有哪些函数声明响应式数据",meta:{title:"除了ref和reactive，还有哪些函数声明响应式数据？",date:"2023-06-14 16:13:06",tag:[],description:"\r\n ref vs shallowRef\r\n\r\nref 包裹的变量，返回响应式对象，通过`.value`获取原来的变量。被包裹的变量是对象或者数组，`内部`也会变成响应式的数据。\r\n\r\n```js\r\n",cover:""}},{route:"/vue3/项目总结",meta:{title:"项目总结",date:"2023-06-20 12:35:39",tag:[],description:` scss 的 0 带单位
+
+修改 stylelint，确保其带单位
+\`\`\`js
+{
+  rules: {
+    // NOTE 忽略这个规则，因为不带单位的 0 参与 calc 计算时，报错
+  `,cover:""}},{route:"/webpack/index",meta:{title:"webpack相关文章",date:"2023-06-14 16:13:06",tag:[],description:` rollup 基础使用
  webpack5 模块联邦实现微前端
  如何在 github 上部署 vue 应用`,cover:""}},{route:"/webpack/rollup基础使用",meta:{title:"rollup基础使用",date:"2023-06-14 16:13:06",tag:[],description:`rollup 号称是下一代模块打包器，由 Svelte 的作者在 2015 年开发，专注于 JS 打包，通过其插件，也能处理其他文件。
 相比 webpack 复杂的配置，其配置简单，打包后的代码体积很`,cover:"https://tva1.sinaimg.cn/large/e6c9d24egy1h2wqs7ty9wj20r60c8gnn.jpg"}},{route:"/webpack/如何使用gh-pages部署vue应用",meta:{title:"如何使用gh-pages部署vue应用？",date:"2023-06-14 16:13:06",tag:[],description:`使用 webpack5 实现了微前端，希望能把这些应用部署到 git-pages, 如何办呢？
